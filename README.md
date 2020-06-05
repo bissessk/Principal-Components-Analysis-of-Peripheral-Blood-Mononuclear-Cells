@@ -3,3 +3,5 @@ A dataset of Peripheral Blood Mononuclear Cells (PBMCs) was analyzed using clust
 The dataset can be found from 10X Genomics. There are 2,700 single cells that were sequenced on the *Illumina NextSeq 500*.
 
 In this project, PCA was preformed, the ideal number of Principal Components was determined, scree plots were constructed, and pairwise plots were made.
+
+https://support.10xgenomics.com/single-cell-gene-expression/datasets
